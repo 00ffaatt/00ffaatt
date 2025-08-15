@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Aspiring bioinformatician with BSc. in Life Sciences. Experience with biological data analysis and basic software development
+
+# Languages
+Mainly Java and Python but looking to learn more!
+
 <!--
 **00ffaatt/00ffaatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
