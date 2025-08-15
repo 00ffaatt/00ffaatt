@@ -1,4 +1,4 @@
-## Hi there 👋
+# David's Github
 
 Aspiring bioinformatician with BSc. in Life Sciences. Experience with biological data analysis and basic software development
 
